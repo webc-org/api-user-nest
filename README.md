@@ -4,6 +4,7 @@ A **CRUD** app written in nest that manages user data with authentication.
 
 ## 🛠 Tech Stack
 - **pnpm**
+- **nest**
 - **TypeScript**
 - **Express**
 - **Mongoose**
